@@ -1,5 +1,13 @@
 # Risbl Default Page after User Login
 
+Main features:
+
+- Allow web administrato to set the default redirect page after login for user roles  
+- Allow web administrato to set the default redirect page after login for each user  
+- Allow web administrato to set the default page for WooCommerce user roles  
+- Allow web administrato to set to add a new user role and setting its redirect page  
+- Allow web administrato to set to remove a custom user role from the application settings list
+
 Watch the features preview of this plugin in YouTube by clicking the image below or visit https://youtu.be/WC6A_Y3zRrY.
 
 [![YouTube Video](https://img.youtube.com/vi/WC6A_Y3zRrY/0.jpg)](https://www.youtube.com/watch?v=WC6A_Y3zRrY)
