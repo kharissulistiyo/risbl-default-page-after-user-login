@@ -2,9 +2,9 @@
 
 Main features:
 
-- Allow web administrato to set the default redirect page after login for user roles  
-- Allow web administrato to set the default redirect page after login for each user  
-- Allow web administrato to set the default page for WooCommerce user roles  
+- Allow web administrato to set default redirect page after login for user roles  
+- Allow web administrato to set default redirect page after login for each user  
+- Allow web administrato to set default page for WooCommerce user roles  
 - Allow web administrato to set to add a new user role and setting its redirect page  
 - Allow web administrato to set to remove a custom user role from the application settings list
 
