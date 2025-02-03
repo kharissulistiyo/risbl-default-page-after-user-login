@@ -14,7 +14,7 @@ Watch the features preview of this plugin in YouTube by clicking the image below
 
 Important: 
 
-* Do not download and install this plugin to your site for software dependency requirement which is currently under finalization
+* ⛔ Please DO NOT install this plugin to your site for software dependency requirement which is currently under finalization
 * For now, use this repo to study how things work
 * You can use this plugin until the software dependency requirement is publicly available
 
