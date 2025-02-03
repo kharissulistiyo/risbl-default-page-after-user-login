@@ -1,0 +1,11 @@
+.risbl-default-page-after-user-login__pagenav .page-numbers {
+    display: inline-block;
+    padding: 10px 12px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+
+.risbl-default-page-after-user-login__pagenav .page-numbers.prev,
+.risbl-default-page-after-user-login__pagenav .page-numbers.next {
+    background-color: transparent;
+}
