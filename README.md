@@ -14,7 +14,7 @@ Watch the features preview of this plugin in YouTube by clicking the image below
 
 Important: 
 
-* ⛔ Please DO NOT install this plugin to your site for software dependency requirement which is currently under finalization
+* ⛔ Please DO NOT install this plugin alone to your site for software dependency, you need to install and activate [Risbl Admin plugin](https://admin.risbl.com/) first
 * For now, use this repo to study how things work
 * You can use this plugin until the software dependency requirement is publicly available
 
